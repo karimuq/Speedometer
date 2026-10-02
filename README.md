@@ -1,5 +1,7 @@
 # Speedometer
 
+
+<div align="center">
 ![Logo](Logo.png)
 
 ## How to Use
