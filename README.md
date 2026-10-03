@@ -2,7 +2,8 @@
 <img width="200" height="200" alt="icon" src="https://github.com/user-attachments/assets/b8b2da5f-cc8c-4a0f-907c-34488efe311c" />
 
 <div align="center">
- Speedometer
+
+ #Speedometer
 
 ## How to Use
 1. Go to the [Releases](https://github.com/karimuq/Speedometer/releases) page.
